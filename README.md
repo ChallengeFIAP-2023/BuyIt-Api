@@ -1046,3 +1046,6 @@ Deleta uma avaliação.
 | 404 | Página não encontrada
 | 405 | Método não permitido
 | 500 | Erro interno do servidor
+
+
+Atualizando o readme
